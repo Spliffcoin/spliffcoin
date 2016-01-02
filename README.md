@@ -10,13 +10,13 @@ PoW/PoS
 
 PoW Blocks : 100000
 
-PoS : Statis Rewards
+PoS : Static Rewards
 
 Blocktime : 180 seconds
 
 Diff. Retarget : Each Block
 
-Premine : 75000 Spliffcoins
+Premine : 75000 SPL
 
 RPCPORT : 45455
 
